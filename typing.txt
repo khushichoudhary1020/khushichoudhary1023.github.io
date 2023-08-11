@@ -4,3 +4,4 @@ sentence 3
 sentence 4
 changed sentence 5
 new sentence 6
+new
